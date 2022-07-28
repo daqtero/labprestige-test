@@ -4,6 +4,13 @@
 ![Logo_LabPrestige_White](https://user-images.githubusercontent.com/110141929/181408643-60614b83-30f4-48db-8bce-70ccd43e3bf4.png)
 
 
+## Problema:
+Actualmente, existe una enfermedad infecciosa que afecta las vías respiratorias de los pacientes y es necesario identificar factores y niveles de riesgo para esta enfermedad.
+
+## Objetivo:
+Ofrecer a los científicos una plataforma en la que pueda visualizar la información permitiendo identificar factores de riesgo y establecer niveles de riesgo. 
+
+## Solución:
 Un sistema de análisis de data de la sangre que permite calcular los niveles de riesgo de la enfermedad 005B, generar reportes y consultar información.
 
 Además, los usuarios pueden configurar el sistema a partir de los hallazgos de sus investigaciones y así tener un sistema parametrizable y al día con sus nuevos descubrimientos.   
