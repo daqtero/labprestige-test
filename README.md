@@ -1,6 +1,8 @@
 # Sistema test: Lab. Prestige
 
-![LabPrestige](https://user-images.githubusercontent.com/110141929/181408507-0674eee0-121b-4c92-a66b-7ab45cbf2a87.png)
+
+![Logo_LabPrestige_White](https://user-images.githubusercontent.com/110141929/181408643-60614b83-30f4-48db-8bce-70ccd43e3bf4.png)
+
 
 Un sistema de análisis de data de la sangre que permite calcular los niveles de riesgo de la enfermedad 005B, generar reportes y consultar información.
 
