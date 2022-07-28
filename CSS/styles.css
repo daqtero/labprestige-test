@@ -83,3 +83,33 @@
   letter-spacing: var(--unnamed-character-spacing-0);
   color: var(--labels-646d82);
 }
+
+/* Cards Styles */
+.card {
+  background: var(--unnamed-color-ffffff) 0% 0% no-repeat padding-box;
+  background: #FFFFFF 0% 0% no-repeat padding-box;
+  box-shadow: 0px 20px 80px #00000011;
+  border-radius: 10px;
+  opacity: 1;
+}
+
+/* Buttons */
+.primary {
+  background: var(--primary1-2552a8) 0% 0% no-repeat padding-box;
+  background: #2552A8 0% 0% no-repeat padding-box;
+  border-radius: 4px;
+  letter-spacing: var(--unnamed-character-spacing-0);
+  text-align: center;
+  font: normal normal 600 16px/19px Montserrat;
+  color: #FFFFFF;
+ }
+
+.secundary {
+  border: 1px solid var(--primary1-2552a8);
+  border: 1px solid #2552A8;
+  border-radius: 4px;
+  letter-spacing: var(--unnamed-character-spacing-0);
+  color: var(--primary1-2552a8);
+  text-align: center;
+  font: normal normal 600 16px/13px Montserrat;
+  color: #2552A8;
