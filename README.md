@@ -20,4 +20,4 @@ Visualizar gran volumen de data de forma dinámica
 ![Flujograma](https://user-images.githubusercontent.com/110141929/181408144-010f1e1c-171d-4050-83ee-7b9bbb5e88a6.png)
 
 ## Prototipo funcional:
-El prototipo fue realizado en Adobe XD, para visualizarlo por favor ingrese al siguiente link: https://xd.adobe.com/view/24f7bc8b-ffe9-45f6-85cf-208c904056d4-71a4/
+El prototipo fue realizado en Adobe XD en versión desk y mobile, para visualizarlo por favor ingrese al siguiente link: https://xd.adobe.com/view/24f7bc8b-ffe9-45f6-85cf-208c904056d4-71a4/
